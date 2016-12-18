@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AdriApp</string>
+    <string name="send">Enviar</string>
+    <string name="login_page">Página de login</string>
+    <string name="password">Contraseña</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="RunningApp">Correr</string>
+    <string name="RunningAppDesc">Una aplicación para seguir tus carreras</string>
+    <string name="RecipesApp">Aplicación de recetas</string>
+    <string name="RecipesAppDesc">Descarga y haz tus recetas favoritas</string>
+    <string name="MessaggesApp">Aplicación de mensajería</string>
+    <string name="MesaggesApp">Aplicación de mensajería</string>
+    <string name="MessaggesAppDesc">Envía mensajes a tus amigos</string>
+    <string name="WeatherApp">Aplicación de El Tiempo</string>
+    <string name="WeatherDesc">Comprueba el tiempo desde tu teléfono</string>
+    <string name="SyncPcApp">Sync PC App</string>
+    <string name="SyncPcDesc">Sincroniza tu teléfono a través de tu ordenador</string>
+    <string name="SaveThePizza">Salva la pizzApp</string>
+    <string name="SaveThePizzaDesc">Gente malvada quiere robar tu pizza de camino a casa, ¡protégela!</string>
+    <string name="title_activity_home_page">Home Page</string>
+    <string name="edtNombre">Nombre de la app</string>
+    <string name="edtPrecio">Precio de la app</string>
+    <string name="edtPeso">Peso de la app</string>
+    <string name="edtDesc">Descripción de la app</string>
+    <string name="btnAdd">Añadir</string>
+    <string name="Games">Juego</string>
+    <string name="HealthAndFitness">Salud y deporte</string>
+    <string name="Social">Social</string>
+    <string name="opcEdit">Editar</string>
+    <string name="opcDel">Borrar</string>
+    <string name="deleteDialogTitle">¿Borrar aplicación?</string>
+    <string name="yes">Si</string>
+    <string name="NotDeleted">La aplicación no se borró</string>
+    <string name="txtheader">Opciones</string>
+    <string name="edit">Editar</string>
+    <string name="Files">Archivos</string>
+    <string name="DeleteAll">Delete all</string>
+    <string name="logout">Logout</string>
+    <string name="tituloDialogoAll">Clear all applications?</string>
+    <string name="deleteSession">Close session?</string>
+</resources>

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.project.adriapp.HomePage">
+    <item
+        android:id="@+id/action_del_all"
+        android:orderInCategory="100"
+        android:title="@string/DeleteAll"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_lock_power_off" />
+
+</menu>
